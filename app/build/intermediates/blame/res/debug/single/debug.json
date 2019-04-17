@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_instructions.xml.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\menu\\instructions.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_activity.jpg.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\drawable-hdpi\\main_activity.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_verify_back.xml.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\drawable\\verify_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_instructions.xml.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\layout\\activity_instructions.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_display.xml.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\menu\\display.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_view_reg_guad.xml.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\drawable\\view_reg_guad.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_display.jpg.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\drawable-hdpi\\display.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_verify_submit.xml.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\drawable\\verify_submit.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_register_guardian.xml.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\drawable\\register_guardian.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_verify.jpg.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\drawable-hdpi\\verify.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_register.jpg.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\drawable-hdpi\\register.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_instruction.jpg.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\drawable-hdpi\\instruction.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_verify.xml.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\menu\\verify.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display.xml.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\layout\\activity_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_verify.xml.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\layout\\activity_verify.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_register.xml.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\menu\\register.xml"
+    }
+]

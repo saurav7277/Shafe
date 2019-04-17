@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "12,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "871,954",
+                        "endLines": "14,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "949,1021"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\Desktop\\Women-Safety-App-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,3,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,4,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,56,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,42,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,94,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,265,318,625,684,753,814",
+                        "endColumns": "52,42,52,306,58,68,60,56",
+                        "endOffsets": "217,260,313,620,679,748,809,866"
+                    }
+                }
+            ]
+        }
+    ]
+}
